@@ -1,3 +1,3 @@
-# Face-Detector
+# Face Recognition
 
-Code to detect face using built-in camera.
+Code to count the number of distinct people entering a room.
