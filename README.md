@@ -1,3 +1,3 @@
 # Face Recognition
 
-Code to count the number of distinct people entering a room.
+Code to identify unique faces and count the number of people visiting a place during the whole day.
